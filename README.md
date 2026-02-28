@@ -16,3 +16,11 @@ A web-based academic management tool built in 24 hours by a team of three. The a
 | Python | Core logic |
 | Streamlit | Web UI |
 | Pandas | Excel file handling |
+
+## How to Run
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the app
+streamlit run main.py
