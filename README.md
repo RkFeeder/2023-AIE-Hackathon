@@ -16,10 +16,3 @@ A web-based academic management tool built in 24 hours by a team of three. The a
 | Python | Core logic |
 | Streamlit | Web UI |
 | Pandas | Excel file handling |
-
-## Context
-Built as part of the **Applied Information Engineering (AIE)** department hackathon at Yonsei University in 2023. The challenge was open-ended — teams were judged on usefulness, completeness, and presentation. Rather than limiting output to the terminal like most other teams, we chose Streamlit to deliver a proper browser-based experience, which became a key differentiator.
-
-**Team size:** 3  
-**Time limit:** 24 hours  
-**Result:** 1st place
